@@ -1,3 +1,6 @@
+I made a few configuration changes, the original repo in below :)
+
+Original Repo https://github.com/jaewonhimnae/boilerplate-mern-stack
 Hello, My Friends  
 Thank you for having interest in this repository ! 
 
